@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_sys_suggestion_reader_sys_suggestion_reader_group">
+    <m2m_sys_suggestion_reader_sys_suggestion_reader_group action="INSERT_OR_UPDATE">
+        <order>100</order>
+        <reader_requested_fields/>
+        <reader_searchable_fields/>
+        <sys_class_name>m2m_sys_suggestion_reader_sys_suggestion_reader_group</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-17 01:23:43</sys_created_on>
+        <sys_id>e3d654774431311013ec9fad5cdf2d95</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Time Off Tracker" source="x_165694_time_of_0">7ed61477c231311073c2c0dfc0ceee33</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off Tracker">7ed61477c231311073c2c0dfc0ceee33</sys_scope>
+        <sys_suggestion_reader_group_id display_value="Suggested Result Reader Group for Time off Search Config">2fd65477a2313110dd1488b8935aac95</sys_suggestion_reader_group_id>
+        <sys_suggestion_reader_id display_value="Personal Click Reader">ec49ee515b511010627eed35cc81c7b9</sys_suggestion_reader_id>
+        <sys_update_name>m2m_sys_suggestion_reader_sys_suggestion_reader_group_e3d654774431311013ec9fad5cdf2d95</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-17 01:23:43</sys_updated_on>
+    </m2m_sys_suggestion_reader_sys_suggestion_reader_group>
+</record_update>

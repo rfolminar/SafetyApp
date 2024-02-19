@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_segment">
+    <sys_sg_form_segment action="INSERT_OR_UPDATE">
+        <embedded_screen display_value="Details">9bd65477f7313110dee717511a5c5a27</embedded_screen>
+        <form display_value="Recent Requests">dbd6547773313110a9ba2820a51f3623</form>
+        <header_view_config/>
+        <is_sticky>false</is_sticky>
+        <order>10</order>
+        <sys_class_name>sys_sg_form_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-17 01:23:57</sys_created_on>
+        <sys_id>dbd65477ff31311000c1470fa9f1dc20</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Time Off Tracker" source="x_165694_time_of_0">7ed61477c231311073c2c0dfc0ceee33</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off Tracker">7ed61477c231311073c2c0dfc0ceee33</sys_scope>
+        <sys_update_name>sys_sg_form_segment_dbd65477ff31311000c1470fa9f1dc20</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-17 01:23:57</sys_updated_on>
+    </sys_sg_form_segment>
+</record_update>

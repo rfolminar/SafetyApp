@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_rule_action">
+    <sys_sg_ui_rule_action action="INSERT_OR_UPDATE">
+        <operation display_value="Set UI Style">1fc6ba105b431010da168d8fa881c7bb</operation>
+        <order/>
+        <sys_class_name>sys_sg_ui_rule_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-17 01:23:58</sys_created_on>
+        <sys_id>1bd65477c531311046bef20887c0740e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Time Off Tracker" source="x_165694_time_of_0">7ed61477c231311073c2c0dfc0ceee33</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off Tracker">7ed61477c231311073c2c0dfc0ceee33</sys_scope>
+        <sys_update_name>sys_sg_ui_rule_action_1bd65477c531311046bef20887c0740e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-17 01:23:58</sys_updated_on>
+        <target>view_group_04</target>
+        <ui_rule display_value="Status is Rejected">13d65477343131100387bf1dfa569210</ui_rule>
+        <value>{"BackgroundColor":"#F3D9D2"}</value>
+    </sys_sg_ui_rule_action>
+</record_update>

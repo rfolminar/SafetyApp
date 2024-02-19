@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_165694_time_of_0.employee" name="x_165694_time_of_0.employee">67d65477f031311000dc43cc8ea800ad</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-17 01:23:57</sys_created_on>
+        <sys_id>efd65477df3131104a8b3a7029d3a871</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>67d65477f031311000dc43cc8ea800ad</sys_name>
+        <sys_package display_value="Time Off Tracker" source="x_165694_time_of_0">7ed61477c231311073c2c0dfc0ceee33</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off Tracker">7ed61477c231311073c2c0dfc0ceee33</sys_scope>
+        <sys_update_name>sys_embedded_help_role_efd65477df3131104a8b3a7029d3a871</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-17 01:23:57</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

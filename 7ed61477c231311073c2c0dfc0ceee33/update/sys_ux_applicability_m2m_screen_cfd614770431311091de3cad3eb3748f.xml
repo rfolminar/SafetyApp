@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Time Off Admin">87d6147737313110c6ef41d4569baf95</applicability>
+        <order>0</order>
+        <screen display_value="List Admin">9bd6147716313110f4509b04fa6df4eb</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-17 01:24:00</sys_created_on>
+        <sys_id>cfd614770431311091de3cad3eb3748f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Time Off Tracker" source="x_165694_time_of_0">7ed61477c231311073c2c0dfc0ceee33</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off Tracker">7ed61477c231311073c2c0dfc0ceee33</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_cfd614770431311091de3cad3eb3748f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-17 01:24:00</sys_updated_on>
+    </sys_ux_applicability_m2m_screen>
+</record_update>

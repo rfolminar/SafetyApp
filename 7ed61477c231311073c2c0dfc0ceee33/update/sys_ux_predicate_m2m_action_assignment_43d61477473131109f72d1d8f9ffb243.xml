@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="to_edit">a7d65477a1313110ccc358b1889b4080</declarative_action_assignment>
+        <predicate display_value="Time Off Config  - All EDIT">8fd61477d4313110a8affb2a3fc21469</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-17 01:23:49</sys_created_on>
+        <sys_id>43d61477473131109f72d1d8f9ffb243</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Time Off Tracker" source="x_165694_time_of_0">7ed61477c231311073c2c0dfc0ceee33</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off Tracker">7ed61477c231311073c2c0dfc0ceee33</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_43d61477473131109f72d1d8f9ffb243</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-17 01:23:49</sys_updated_on>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>

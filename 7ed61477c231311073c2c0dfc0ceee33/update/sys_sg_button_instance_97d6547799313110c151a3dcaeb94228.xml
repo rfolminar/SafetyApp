@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Reject">5fd654770d3131108b2f9ce855347b30</button>
+        <color_theme>destructive</color_theme>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>Decline</label>
+        <location>footer</location>
+        <name>Decline</name>
+        <order>10</order>
+        <parent>d7d65477823131106bf971d39070e927</parent>
+        <parent_table>sys_sg_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-17 01:23:35</sys_created_on>
+        <sys_id>97d6547799313110c151a3dcaeb94228</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Decline</sys_name>
+        <sys_package display_value="Time Off Tracker" source="x_165694_time_of_0">7ed61477c231311073c2c0dfc0ceee33</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off Tracker">7ed61477c231311073c2c0dfc0ceee33</sys_scope>
+        <sys_update_name>sys_sg_button_instance_97d6547799313110c151a3dcaeb94228</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-17 01:23:35</sys_updated_on>
+        <table>x_165694_time_of_0_request</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=97d6547799313110c151a3dcaeb94228"/>
+</record_update>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>tableConfigId</name>
+        <page display_value="Time Off Tracker workspace">67d6547766313110e1c8d95c7c9fa7ab</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-17 01:23:51</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>03d61477d6313110d4f148a05f5e9947</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>tableConfigId</sys_name>
+        <sys_package display_value="Time Off Tracker" source="x_165694_time_of_0">7ed61477c231311073c2c0dfc0ceee33</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off Tracker">7ed61477c231311073c2c0dfc0ceee33</sys_scope>
+        <sys_update_name>sys_ux_page_property_03d61477d6313110d4f148a05f5e9947</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-17 01:23:51</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_165694_time_of_0.67d6547766313110e1c8d95c7c9fa7ab.root.tableConfigId</unique_name>
+        <value>x_165694_time_of_0_request</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=03d61477d6313110d4f148a05f5e9947"/>
+</record_update>

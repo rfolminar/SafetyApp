@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_highlighted_value_condition">
+    <sys_highlighted_value_condition action="INSERT_OR_UPDATE">
+        <color/>
+        <conditions table="x_165694_time_of_0_request">status=rejected^EQ<item display_value="Rejected" endquery="false" field="status" goto="false" newquery="false" operator="=" or="false" value="rejected"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </conditions>
+        <form_label_description/>
+        <hide_form_label>false</hide_form_label>
+        <highlighted_value display_value="status">6bd65477a2313110d8ae57c74b066971</highlighted_value>
+        <icon/>
+        <order>50</order>
+        <show_icon>true</show_icon>
+        <status>critical</status>
+        <sys_class_name>sys_highlighted_value_condition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-17 01:23:54</sys_created_on>
+        <sys_id>abd654774231311055d9ceec53fb6e70</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Time Off Tracker" source="x_165694_time_of_0">7ed61477c231311073c2c0dfc0ceee33</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off Tracker">7ed61477c231311073c2c0dfc0ceee33</sys_scope>
+        <sys_update_name>sys_highlighted_value_condition_abd654774231311055d9ceec53fb6e70</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-17 01:23:54</sys_updated_on>
+        <value_override/>
+        <variant/>
+    </sys_highlighted_value_condition>
+</record_update>

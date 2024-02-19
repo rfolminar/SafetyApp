@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Activity" section_id="17d61477e1313110a80cc6e1710d6cac" sys_domain="global" table="x_165694_time_of_0_request" version="3" view="workspace">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-17 01:23:41</sys_created_on>
+            <sys_id>4fd61477063131100976858ab4a585a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Activity" display_value="Activity" name="x_165694_time_of_0_request" sys_domain="global" view="b46160b2d4a3211095d7c105f1bf43c2">17d61477e1313110a80cc6e1710d6cac</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-17 01:23:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-17 01:23:41</sys_created_on>
+            <sys_id>87d614773d313110ace5500177e7eb9e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Activity" display_value="Activity" name="x_165694_time_of_0_request" sys_domain="global" view="b46160b2d4a3211095d7c105f1bf43c2">17d61477e1313110a80cc6e1710d6cac</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-17 01:23:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-17 01:23:41</sys_created_on>
+            <sys_id>cbd614772631311067bfb889941d6c9f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="">2e571e8093407c10c64103bb3013070d</sys_ui_formatter>
+            <sys_ui_section caption="Activity" display_value="Activity" name="x_165694_time_of_0_request" sys_domain="global" view="b46160b2d4a3211095d7c105f1bf43c2">17d61477e1313110a80cc6e1710d6cac</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-17 01:23:41</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Activity</caption>
+            <header>false</header>
+            <name>x_165694_time_of_0_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-17 01:23:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>17d61477e1313110a80cc6e1710d6cac</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_165694_time_of_0_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Time Off Tracker" source="x_165694_time_of_0">7ed61477c231311073c2c0dfc0ceee33</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Time Off Tracker">7ed61477c231311073c2c0dfc0ceee33</sys_scope>
+            <sys_update_name>sys_ui_section_17d61477e1313110a80cc6e1710d6cac</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-17 01:23:41</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Workspace" name="workspace">b46160b2d4a3211095d7c105f1bf43c2</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

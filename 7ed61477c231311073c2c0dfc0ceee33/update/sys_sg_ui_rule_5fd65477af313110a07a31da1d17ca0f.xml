@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_rule">
+    <sys_sg_ui_rule action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition>text_01=requested</condition>
+        <name>Status is Requested</name>
+        <order/>
+        <parent_id>9fd65477ef3131106a99b10c45131123</parent_id>
+        <parent_table>sys_sg_view_config</parent_table>
+        <reverse_if_false>false</reverse_if_false>
+        <sys_class_name>sys_sg_ui_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-17 01:24:00</sys_created_on>
+        <sys_id>5fd65477af313110a07a31da1d17ca0f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Status is Requested</sys_name>
+        <sys_package display_value="Time Off Tracker" source="x_165694_time_of_0">7ed61477c231311073c2c0dfc0ceee33</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off Tracker">7ed61477c231311073c2c0dfc0ceee33</sys_scope>
+        <sys_update_name>sys_sg_ui_rule_5fd65477af313110a07a31da1d17ca0f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-17 01:24:00</sys_updated_on>
+        <trigger>fd680bd85b431010da168d8fa881c7c8</trigger>
+    </sys_sg_ui_rule>
+</record_update>

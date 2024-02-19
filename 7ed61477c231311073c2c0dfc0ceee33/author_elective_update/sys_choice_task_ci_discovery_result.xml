@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="discovery_result" table="task_ci" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>discovery_result</element>
+            <name>task_ci</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-17 02:17:24</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>discovery_result</sys_name>
+            <sys_package display_value="Time Off Tracker" source="x_165694_time_of_0">7ed61477c231311073c2c0dfc0ceee33</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Time Off Tracker">7ed61477c231311073c2c0dfc0ceee33</sys_scope>
+            <sys_update_name>sys_choice_task_ci_discovery_result</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-17 02:17:24</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>discovery_result</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>In Progress</label>
+            <language>en</language>
+            <name>task_ci</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-17 02:17:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-17 02:17:24</sys_updated_on>
+            <value>in_progress</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>discovery_result</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>进行中</label>
+            <language>zh</language>
+            <name>task_ci</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count/>
+            <sys_updated_by/>
+            <sys_updated_on/>
+            <value>in_progress</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>discovery_result</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Completed Successfully</label>
+            <language>en</language>
+            <name>task_ci</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-17 02:17:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-17 02:17:24</sys_updated_on>
+            <value>successful</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>discovery_result</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>成功完成</label>
+            <language>zh</language>
+            <name>task_ci</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count/>
+            <sys_updated_by/>
+            <sys_updated_on/>
+            <value>successful</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>discovery_result</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Completed Successfully with Warnings</label>
+            <language>en</language>
+            <name>task_ci</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-17 02:17:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-17 02:17:24</sys_updated_on>
+            <value>warning</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>discovery_result</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>已成功完成但有警告</label>
+            <language>zh</language>
+            <name>task_ci</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count/>
+            <sys_updated_by/>
+            <sys_updated_on/>
+            <value>warning</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>discovery_result</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Completed with Errors</label>
+            <language>en</language>
+            <name>task_ci</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-17 02:17:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-17 02:17:24</sys_updated_on>
+            <value>error</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>discovery_result</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>完成但有错误</label>
+            <language>zh</language>
+            <name>task_ci</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count/>
+            <sys_updated_by/>
+            <sys_updated_on/>
+            <value>error</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>discovery_result</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Canceled</label>
+            <language>en</language>
+            <name>task_ci</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-17 02:17:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-17 02:17:24</sys_updated_on>
+            <value>canceled</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>discovery_result</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>已取消</label>
+            <language>zh</language>
+            <name>task_ci</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count/>
+            <sys_updated_by/>
+            <sys_updated_on/>
+            <value>canceled</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>discovery_result</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Not applicable</label>
+            <language>en</language>
+            <name>task_ci</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-10-17 02:17:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-10-17 02:17:24</sys_updated_on>
+            <value>not_applicable</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>discovery_result</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>不适用</label>
+            <language>zh</language>
+            <name>task_ci</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count/>
+            <sys_updated_by/>
+            <sys_updated_on/>
+            <value>not_applicable</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

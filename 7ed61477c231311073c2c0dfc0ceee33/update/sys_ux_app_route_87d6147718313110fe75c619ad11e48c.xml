@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Time Off Requests workspace Config">6bd65477df313110cd80dd54ff20c9ac</app_config>
+        <description/>
+        <extension_point/>
+        <fields>userGivenTable,table,label,parentRecordSysId,parentFieldName,referencedFieldName,extensionPoint,view,columns,hideSelectAll,type,relatedListName</fields>
+        <icon/>
+        <name>DA Modal Multi-Record Associator</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Record">03d61477bf3131102ca3c403f2d4f48c</parent_macroponent>
+        <parent_macroponent_composition_element_id>modalContainerViewport</parent_macroponent_composition_element_id>
+        <route_type>mra</route_type>
+        <screen_type display_value="DA Modal Multi-Record Associator">4bd61477ba313110807ae2c5276cb38c</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-17 01:23:59</sys_created_on>
+        <sys_id>87d6147718313110fe75c619ad11e48c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DA Modal Multi-Record Associator</sys_name>
+        <sys_package display_value="Time Off Tracker" source="x_165694_time_of_0">7ed61477c231311073c2c0dfc0ceee33</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off Tracker">7ed61477c231311073c2c0dfc0ceee33</sys_scope>
+        <sys_update_name>sys_ux_app_route_87d6147718313110fe75c619ad11e48c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-17 01:23:59</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=87d6147718313110fe75c619ad11e48c"/>
+</record_update>

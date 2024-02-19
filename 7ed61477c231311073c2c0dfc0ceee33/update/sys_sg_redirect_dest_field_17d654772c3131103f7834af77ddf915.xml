@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_redirect_dest_field">
+    <sys_sg_redirect_dest_field action="INSERT_OR_UPDATE">
+        <button display_value="Time Off Trends to Time Off Requests Nav">53d6547714313110165746791ae4812a</button>
+        <button_table/>
+        <constant_value/>
+        <destination_ui_parameter display_value="URL">d7d65477db313110a1f00f6bcf606e15</destination_ui_parameter>
+        <source_field/>
+        <source_ui_parameter/>
+        <sys_class_name>sys_sg_redirect_dest_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-17 01:23:52</sys_created_on>
+        <sys_id>17d654772c3131103f7834af77ddf915</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>d7d65477db313110a1f00f6bcf606e15</sys_name>
+        <sys_package display_value="Time Off Tracker" source="x_165694_time_of_0">7ed61477c231311073c2c0dfc0ceee33</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off Tracker">7ed61477c231311073c2c0dfc0ceee33</sys_scope>
+        <sys_update_name>sys_sg_redirect_dest_field_17d654772c3131103f7834af77ddf915</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-17 01:23:52</sys_updated_on>
+        <type>field</type>
+    </sys_sg_redirect_dest_field>
+</record_update>

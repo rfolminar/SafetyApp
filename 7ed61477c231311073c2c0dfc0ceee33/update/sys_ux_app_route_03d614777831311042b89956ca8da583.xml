@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Time Off Requests workspace Config">6bd65477df313110cd80dd54ff20c9ac</app_config>
+        <description/>
+        <extension_point/>
+        <fields>table,sysId</fields>
+        <icon/>
+        <name>DA Modal Page</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Record">03d61477bf3131102ca3c403f2d4f48c</parent_macroponent>
+        <parent_macroponent_composition_element_id>modalContainerViewport</parent_macroponent_composition_element_id>
+        <route_type>modal_page</route_type>
+        <screen_type display_value="DA Modal Page">cfd6147717313110b4253ee80d080883</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-17 01:23:56</sys_created_on>
+        <sys_id>03d614777831311042b89956ca8da583</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>DA Modal Page</sys_name>
+        <sys_package display_value="Time Off Tracker" source="x_165694_time_of_0">7ed61477c231311073c2c0dfc0ceee33</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off Tracker">7ed61477c231311073c2c0dfc0ceee33</sys_scope>
+        <sys_update_name>sys_ux_app_route_03d614777831311042b89956ca8da583</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-17 01:23:56</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=03d614777831311042b89956ca8da583"/>
+</record_update>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="INSERT_OR_UPDATE">
+        <description/>
+        <event_name>CANVAS_MODAL#CLOSED_RELAY_0fd61477433131107be9c9c60251897a</event_name>
+        <explicit_api_name/>
+        <interfaces/>
+        <label>Modal closed Relay (Update records (layout tweak))</label>
+        <props>[{"name":"modalInstanceId","fieldType":"string","interfaceApiName":null,"label":"Modal instance id"}]</props>
+        <required_translations>[{"message":"Modal instance id","comment":""}]</required_translations>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-17 01:23:52</sys_created_on>
+        <sys_id>43d61477c43131101b2d999705970d5e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Modal closed Relay (Update records (layout tweak))</sys_name>
+        <sys_package display_value="Time Off Tracker" source="x_165694_time_of_0">7ed61477c231311073c2c0dfc0ceee33</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off Tracker">7ed61477c231311073c2c0dfc0ceee33</sys_scope>
+        <sys_update_name>sys_ux_event_43d61477c43131101b2d999705970d5e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-17 01:23:52</sys_updated_on>
+    </sys_ux_event>
+    <sys_translated_text action="delete_multiple" query="documentkey=43d61477c43131101b2d999705970d5e"/>
+</record_update>

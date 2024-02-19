@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_section_destination_applet_launcher">
+    <sys_sg_navigation_section_destination_applet_launcher action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="Time Off">5fd654771d313110564c4f42723ce82d</applet_launcher>
+        <background_color/>
+        <background_color_variable/>
+        <foreground_color/>
+        <foreground_color_variable/>
+        <icon display_value="Assets icon">0308385b1c003300964f3fc617b23a2e</icon>
+        <image/>
+        <name>Nav section</name>
+        <sys_class_name>sys_sg_navigation_section_destination_applet_launcher</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-17 01:23:51</sys_created_on>
+        <sys_id>5fd65477333131105535c6d9dea83a15</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Nav section</sys_name>
+        <sys_package display_value="Time Off Tracker" source="x_165694_time_of_0">7ed61477c231311073c2c0dfc0ceee33</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off Tracker">7ed61477c231311073c2c0dfc0ceee33</sys_scope>
+        <sys_update_name>sys_sg_navigation_section_destination_applet_launcher_5fd65477333131105535c6d9dea83a15</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-17 01:23:51</sys_updated_on>
+    </sys_sg_navigation_section_destination_applet_launcher>
+</record_update>

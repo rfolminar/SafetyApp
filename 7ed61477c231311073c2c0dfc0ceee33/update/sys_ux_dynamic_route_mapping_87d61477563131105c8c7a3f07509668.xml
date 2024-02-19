@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_dynamic_route_mapping">
+    <sys_ux_dynamic_route_mapping action="INSERT_OR_UPDATE">
+        <param_payload>{    "route" : "record",    "targetRoute": "",    "fields": {"table":"{{table}}","sysId":"{{sys_id}}"},    "params":"",    "redirect" : true,    "passiveNavigation" : "",    "title" : "",    "multiInstField" : "",    "external": "" }</param_payload>
+        <route_config display_value="Time Off Route Config">83d61477c7313110b87f595aba94bd69</route_config>
+        <source_component/>
+        <sys_class_name>sys_ux_dynamic_route_mapping</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-17 01:23:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>87d61477563131105c8c7a3f07509668</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Time Off Tracker" source="x_165694_time_of_0">7ed61477c231311073c2c0dfc0ceee33</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Time Off Tracker">7ed61477c231311073c2c0dfc0ceee33</sys_scope>
+        <sys_update_name>sys_ux_dynamic_route_mapping_87d61477563131105c8c7a3f07509668</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-17 01:23:52</sys_updated_on>
+        <table>x_165694_time_of_0_request</table>
+    </sys_ux_dynamic_route_mapping>
+</record_update>
